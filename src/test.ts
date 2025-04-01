@@ -6,3 +6,5 @@ const num2 = 23;
 
 console.log(sum(num1, num2));
 console.log(molt(num1, num2));
+
+//pippo 2 comanda !!!!!!!
