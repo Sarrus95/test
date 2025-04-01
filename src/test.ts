@@ -6,6 +6,8 @@ const sum = (a: number, b: number) => a + b;
 const diff = (a: number, b: number) => a - b;
 const molt = (a: number, b: number) => a * b;
 const div = (a: number, b: number) => a / b;
+const pow = (a: number, b:number) => a ** b;
+
 
 
 console.log(sum(num1, num2));
