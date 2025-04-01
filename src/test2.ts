@@ -11,3 +11,7 @@ function contaA(stringa: string): number {
 // Esempio di utilizzo
 const risultato = contaA("La pizza è fantastica!");
 console.log(`Numero totale di 'a': ${risultato}`);
+
+
+// cosa nuova !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+//Noemi è bionda 
