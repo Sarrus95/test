@@ -14,3 +14,4 @@ console.log(`Numero totale di 'a': ${risultato}`);
 
 
 // cosa nuova !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+//Noemi è bionda 
